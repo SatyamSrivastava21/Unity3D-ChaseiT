@@ -1,5 +1,4 @@
-ChaseIt
-#
+# ChaseIt
 Introducing ChaseIt: The Exciting New Mobile Game Built with Unity3D
 
 Have you ever wanted to escape the monotony of your daily life and immerse yourself in a thrilling adventure? Look no further than ChaseIt, the new mobile game built with Unity3D. In this fast-paced game, players control an avatar as they run and collect coins while avoiding obstacles and enemies. With vibrant graphics and a catchy soundtrack, ChaseIt is sure to keep you entertained for hours on end.
@@ -13,8 +12,7 @@ In addition to its thrilling gameplay, ChaseIt also boasts a captivating soundtr
 Whether you’re looking for a quick pick-up-and-play game or something to sink your teeth into, ChaseIt is the perfect choice. With its addictive gameplay, stunning graphics, and pulse-pounding soundtrack, this game is sure to become a new favourite among mobile gamers. So what are you waiting for? Download ChaseIt today and start your adventure!
 
 In conclusion, ChaseIt is an exciting new mobile game that offers players a thrilling adventure as they run and collect coins while avoiding obstacles and enemies. Built with Unity3D, the game boasts stunning graphics and a smooth user experience, as well as a captivating soundtrack that will keep you entertained for hours on end. So why not give ChaseIt a try today and see what all the excitement is about?
-#
-This file contains :-
+# This file contains :-
 
 1.) Application
 Remember to initialize your Unity Hub
